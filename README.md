@@ -1,4 +1,4 @@
-# springboot tutorial
+# SpringBoot tutorial
 
 **Spring Boot is a modern Java framework that makes building production-ready applications fast and simple by eliminating boilerplate code, offering auto-configuration, and embedding servers like Tomcat or Jetty. It’s widely used for REST APIs, microservices, and enterprise applications because of its speed, flexibility, and seamless integration with databases, security, and cloud platforms.**   [Spring](https://spring.io/projects/spring-boot/)  [GeeksForGeeks](https://www.geeksforgeeks.org/advance-java/spring-boot/)  [DEV Community](https://dev.to/krishna7852/introduction-to-spring-boot-a-complete-guide-203l)
 
