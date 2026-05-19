@@ -187,7 +187,7 @@ public class StudentController {
 - Embedded server → run instantly with `java -jar`.
 
 ---
-Great choice, Firman! Let’s extend our **Spring Boot CRUD app** into a **CI/CD pipeline with GitHub Actions** so you can see how automated testing and deployment fit in.
+Let’s extend our **Spring Boot CRUD app** into a **CI/CD pipeline with GitHub Actions** so you can see how automated testing and deployment fit in.
 
 ---
 
@@ -373,7 +373,7 @@ jobs:
 - **Confidence in CI/CD**: Prevents regressions before deployment.  
 
 ---
-Perfect, Firman! Let’s take our **Spring Boot + Robot Framework pipeline** one step further by **containerizing the app with Docker** and running the tests inside containers. This simulates a production-like environment and makes your CI/CD workflow more robust.
+Let’s take our **Spring Boot + Robot Framework pipeline** one step further by **containerizing the app with Docker** and running the tests inside containers. This simulates a production-like environment and makes your CI/CD workflow more robust.
 
 ---
 
@@ -480,7 +480,7 @@ jobs:
 - **Scalability**: Easy to extend with multiple services (databases, message queues).  
 
 ---
-Perfect, Firman! Let’s extend our pipeline into a **Docker Compose setup** so your Spring Boot app, database, and Robot Framework tests all run together in a coordinated environment. This is how real-world teams simulate production locally and in CI/CD.
+Let’s extend our pipeline into a **Docker Compose setup** so your Spring Boot app, database, and Robot Framework tests all run together in a coordinated environment. This is how real-world teams simulate production locally and in CI/CD.
 
 ---
 
